@@ -1,0 +1,5 @@
+Me gusta PSP y java
+PSP se programa en java
+es un módulo de DAM
+y se programa de forma concurrente en PSP
+PSP es programación.
